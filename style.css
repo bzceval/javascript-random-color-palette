@@ -5,10 +5,13 @@
   background-color: #f3e3d36e;
 }
 h1 {
-  text-align: center;
-  margin: 20px;
-  letter-spacing: .5rem;
+  text-align: center; 
+  letter-spacing: 0.5rem;
   color: #876758;
+}
+p {
+    color: #87675884; 
+    margin-bottom: 20px;
 }
 .main {
   display: flex;
@@ -19,7 +22,7 @@ h1 {
 }
 .container {
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   justify-content: center;
   margin: 20px;
 }
