@@ -2,10 +2,13 @@
   margin: 0;
   padding: 0;
   font-family: "Bebas Neue", cursive;
+  background-color: #f3e3d36e;
 }
 h1 {
   text-align: center;
   margin: 20px;
+  letter-spacing: .5rem;
+  color: #876758;
 }
 .main {
   display: flex;
@@ -18,7 +21,7 @@ h1 {
   display: flex;
   flex-wrap: wrap; 
   justify-content: center;
-  margin: 50px;
+  margin: 20px;
 }
 
 .color-container {
