@@ -22,3 +22,5 @@ Random Color Palette
         |----app.js
 ```
    
+## Demo
+![random-color](https://user-images.githubusercontent.com/100320309/204977898-7aa376a0-66f5-454c-83c0-85799b685eda.gif)
