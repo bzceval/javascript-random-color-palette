@@ -15,7 +15,7 @@ This project consists of an application that brings 5 ​​random colors at eac
 ```
 Random Color Palette
 |
-|----readme.md         # Given to the students (Definition of the project)          
+|----readme.md                
 |----solution
         |----index.html  
         |----style.css   
